@@ -1,11 +1,12 @@
 # Rainbow2024p1
 Learn what a repository is all about
-This is a poem about Rainbows and Monkies and Homer Simpson
+This is a poem about Rainbows and Monkeys and Homer Simpson
 Red
 Orange
 Yellow
 Green
 Blue
 Violet
-Indego
-Monkey thankyou for helping
+Indigo
+Monkey and Apes thank you for helping
+
